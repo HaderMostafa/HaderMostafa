@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaderMostafa](https://github.com/HaderMostafa)
 
-- 💬 Ask me about **laravel and Node.js**
+- 💬 Ask me about **Laravel and Node.js**
 
 - 📫 How to reach me **hadeermostafa.094@gmail.com**
 
